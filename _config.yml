@@ -6,8 +6,8 @@ collections:
     output: true
 #    permalink: /artis/:year/:title/
 #    permalink: pretty
-    permalink: /:collection/:name
-    source: /articles/_artis
+    permalink: /articles/
+    source: articles/_artis
 exclude:
   - CNAME
   - Gemfile
