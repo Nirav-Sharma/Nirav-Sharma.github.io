@@ -4,7 +4,8 @@ permalink: /blog/:year/:title/
 collections:
   artis:
     output: true
-    permalink: /artis/:year/:title/
+#    permalink: /artis/:year/:title/
+    permalink: pretty
     source: /articles/_artis
 exclude:
   - CNAME
