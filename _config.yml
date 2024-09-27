@@ -23,7 +23,7 @@ compress_html:
     envs: [travis]
 # theme
 noita:
-  name: Noita
+  name: Nirav's place
   description: Jekyll theme built with Foundation
   author:
     name: Anatol Broder
@@ -40,6 +40,8 @@ noita:
         url: /guide/
       - name: Blog
         url: /blog/
-      - name: Repository
-        url: https://github.com/Nirav-Sharma
-        class: small button
+      - name: Articles
+        url: /articles/
+#      - name: Repository
+ #       url: https://github.com/Nirav-Sharma
+  #      class: small button
