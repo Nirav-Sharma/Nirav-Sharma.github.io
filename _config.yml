@@ -1,11 +1,12 @@
 # build
 markdown: kramdown
-permalink: /blog/:year/:title/
+# permalink: /blog/:year/:title/
 collections:
   artis:
     output: true
 #    permalink: /artis/:year/:title/
-    permalink: pretty
+#    permalink: pretty
+    permalink: /:collection/:name
     source: /articles/_artis
 exclude:
   - CNAME
