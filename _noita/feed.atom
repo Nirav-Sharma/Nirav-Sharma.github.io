@@ -39,4 +39,18 @@
     <updated>{{ post.date | date_to_xmlschema }}</updated>
   </entry>
   {% endfor %}
+
+  {% for post in site.artis limit: page.limit %}
+  <entry>
+    <content type="html">{{ arti.content | xml_escape }}</content>
+    <title type="html">{{ arti.title | xml_escape }}</title>
+    <id>{{ base }}{{arti.url }}</id>
+    <link
+      rel="alternate"
+      type="text/html"
+      href="{{ base }}{{ arti.url }}" />
+    <published>{{ arti.date | date_to_xmlschema }}</published>
+    <updated>{{ arti.date | date_to_xmlschema }}</updated>
+  </entry>
+  {% endfor %}
 </feed>
