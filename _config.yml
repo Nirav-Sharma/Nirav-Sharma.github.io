@@ -41,5 +41,5 @@ noita:
       - name: Blog
         url: /blog/
       - name: Repository
-        url: https://github.com/penibelst/jekyll-noita
+        url: https://github.com/Nirav-Sharma
         class: small button
