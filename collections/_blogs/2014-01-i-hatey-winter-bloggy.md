@@ -1,5 +1,5 @@
 ---
-title: "I Hate Winter"
+title: "I Hate Wintery"
 layout: post
 description: "You think Istanbul and Lint hurt your feelings? You clearly don’t wear a fitbit. Tells me how out of shape I really am."
 robots: none
