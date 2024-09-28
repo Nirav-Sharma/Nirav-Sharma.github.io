@@ -9,6 +9,9 @@ robots: none
 
 In Chapter 1, Paleologo (Gappy) introduces key financial tools e.g. bonds, equities and futures, and the players involved in different markets in a helpful, beginner friendly way. Gappy then explores the concept of excess returns, demonstrating how certain strategies can generate above-market returns. The chapter concludes by outlining the investment process within quantitative investing, aided by a helpful diagram (fig. 1.1). 
 ![Figure1.1](/assets/EQI1.1.jpg "Elements of Quantitative investing Figure 1.1")
+<p align="center">
+<img src="/assets/EQI1.1.jpg">
+</p>
 
 Chapter 2 introduces the different types of returns with mathematical examples to aid explanation. Gappy then explains conditional heteroscedastic models (CHM), focusing on the GARCH model (fig. 2.2), which I found to be extremely intuitive. He also covers state-space models like EWMA and the Harvey-Shepherd model. The chapter concludes with a short but insightful section on the Kalman filter.
 ![Figure2.2](/assets/EQI2.2.jpg "Elements of Quantitative investing Figure 2.2")
