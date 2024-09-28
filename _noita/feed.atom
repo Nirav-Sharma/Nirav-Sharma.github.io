@@ -26,17 +26,17 @@
     href="{{ base }}{{ page.url }}" />
   <updated>{{ site.time | date_to_xmlschema }}</updated>
 
-  {% for post in site.posts limit: page.limit %}
+  {% for blog in site.blogs limit: page.limit %}
   <entry>
-    <content type="html">{{ post.content | xml_escape }}</content>
-    <title type="html">{{ post.title | xml_escape }}</title>
-    <id>{{ base }}{{ post.url }}</id>
+    <content type="html">{{ blog.content | xml_escape }}</content>
+    <title type="html">{{ blog.title | xml_escape }}</title>
+    <id>{{ base }}{{ blog.url }}</id>
     <link
       rel="alternate"
       type="text/html"
-      href="{{ base }}{{ post.url }}" />
-    <published>{{ post.date | date_to_xmlschema }}</published>
-    <updated>{{ post.date | date_to_xmlschema }}</updated>
+      href="{{ base }}{{ blog.url }}" />
+    <published>{{ blog.date | date_to_xmlschema }}</published>
+    <updated>{{ blog.date | date_to_xmlschema }}</updated>
   </entry>
   {% endfor %}
 
