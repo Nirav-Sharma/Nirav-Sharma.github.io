@@ -1,9 +1,0 @@
-{% for arti in site.artis %}
-<div class="arti-long">
-  <h4>
-    <a href="{{ arti.url }}">{{ arti.title }}</a>
-    <small>{{ arti.date | date: '%F' }}</small>
-  </h4>
-  <p>{{ arti.description }}</p>
-</div>
-{% endfor %}
