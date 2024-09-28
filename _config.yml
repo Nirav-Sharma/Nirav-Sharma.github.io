@@ -4,9 +4,9 @@ markdown: kramdown
 collections:
   artis:
     output: true
-#    permalink: /artis/:year/:title/
+    permalink: /artis/:year/:title/
 #    permalink: pretty
-    permalink: /articles/
+#    permalink: /articles/
     source: ./articles/_artis
 #    baseurl: ""
 exclude:
