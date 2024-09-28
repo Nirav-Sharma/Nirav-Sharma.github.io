@@ -5,6 +5,7 @@ date: 2024-09-28
 description: "Giuseppe Paleologo recently released a draft version of his forthcoming book. It's good!"
 robots: none
 ---
+<p align="center" /> 
 #### The Elements of Quantitative Investing
 <p align="center" /> 
 ##### Before the Trade
