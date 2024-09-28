@@ -7,8 +7,8 @@ collections:
 #    permalink: /artis/:year/:title/
 #    permalink: pretty
     permalink: /articles/
-    source: articles/_artis
-    baseurl: ""
+    source: ./articles/_artis
+#    baseurl: ""
 exclude:
   - CNAME
   - Gemfile
