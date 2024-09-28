@@ -39,6 +39,7 @@ Gappy shifts focus to hedging, starting with a general explanation, with exercis
 ![Figure11.2](/assets/EQI11.2.jpg "Elements of Quantitative investing Figure 11.2")
 
 Gappy now moves on to the final part of the book, after the trade, where he first covers the Kelly criterion using scenarios, maths, and graphs (fig. 12.3) to illustrate his points. He then explains the intuition and mathematics behind Kelly strategies, concluding with a deep dive into the fractional Kelly strategy that was notably captivating.
+
 ![Figure12.3](/assets/EQI12.3.jpg "Elements of Quantitative investing Figure 12.3")
 
 In the closing chapter, Gappy discusses performance attribution, examining the distinction between luck and skill in model performance. He focuses on idiosyncratic profit and PnL, providing a satisfying conclusion to the book. This concluding chapter was a fitting end to an insightful and engaging read.
