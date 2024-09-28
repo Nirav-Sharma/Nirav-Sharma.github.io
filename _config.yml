@@ -7,7 +7,7 @@ collections:
     permalink: /articles/:title/
 #    permalink: pretty
 #    permalink: /articles/
-collections_dir: articles
+collections_dir: collections
 #    source: articles/_artis/
 #    baseurl: ""
 exclude:
