@@ -78,6 +78,12 @@ $alert-transition-ease: ease-out !default;
   // We control the text color for you based on the background color.
   @if $bg-lightness > 70% { color: $alert-font-color-alt; }
   @else                   { color: $alert-font-color; }
+    // Adjust the link styling within the alert box to match the rest of the text
+  a {
+    font-size: $alert-font-size;  // Match link font size to the alert text size
+    color: $alert-font-color-alt;  // Use the alternative font color for links
+  }
+}
 
 }
 
