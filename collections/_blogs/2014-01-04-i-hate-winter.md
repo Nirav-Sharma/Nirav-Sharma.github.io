@@ -1,6 +1,6 @@
 ---
 title: "I Hate Winter"
-layout: post
+layout: blog
 description: "You think Istanbul and Lint hurt your feelings? You clearly don’t wear a fitbit. Tells me how out of shape I really am."
 robots: none
 ---
