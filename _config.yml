@@ -5,6 +5,10 @@ collections:
   artis:
     output: true
     permalink: /articles/:title/
+collections:
+  blog:
+    output: true
+    permalink: /blog/:title/
 #    permalink: pretty
 #    permalink: /articles/
 collections_dir: collections
