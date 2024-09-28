@@ -4,10 +4,11 @@ markdown: kramdown
 collections:
   artis:
     output: true
-    permalink: /articles/:year/:title/
+    permalink: /articles/:title/
 #    permalink: pretty
 #    permalink: /articles/
-    source: articles/_artis/
+     collections_dir: articles
+#    source: articles/_artis/
 #    baseurl: ""
 exclude:
   - CNAME
