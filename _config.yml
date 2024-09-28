@@ -4,13 +4,15 @@ markdown: kramdown
 collections:
   artis:
     output: true
-    permalink: /articles/:title/
+#    permalink: /articles/:title/
   blog:
     output: true
-    permalink: /blog/:title/
+#    permalink: /blog/:title/
 #    permalink: pretty
 #    permalink: /articles/
 collections_dir: collections
+permalink: /:categories/:title/
+
 #    source: articles/_artis/
 #    baseurl: ""
 exclude:
