@@ -5,7 +5,6 @@ collections:
   artis:
     output: true
     permalink: /articles/:title/
-collections:
   blog:
     output: true
     permalink: /blog/:title/
