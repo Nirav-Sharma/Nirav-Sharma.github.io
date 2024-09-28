@@ -1,0 +1,9 @@
+{% for blog in site.blogs %}
+<div class="blog-short">
+  <h4>
+    <a href="{{ blog.url }}">{{ blog.title }}</a>
+    <small>{{ blog.date | date: '%F' }}</small>
+  </h4>
+  <p>{{ blog.description }}</p>
+</div>
+{% endfor %}
