@@ -5,7 +5,7 @@ collections:
   artis:
     output: true
     permalink: /articles/:title/
-  blog:
+  blogs:
     output: true
     permalink: /blog/:title/
 #    permalink: pretty
