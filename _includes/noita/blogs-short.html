@@ -1,5 +1,5 @@
 {% for blog in site.blogs %}
-<div class="blogs-short">
+<div class="row" style="max-width: 900px; margin: 0 auto;">
   <h4>
     <a href="{{ blog.url }}">{{ blog.title }}</a>
     <small>{{ blog.date | date: '%F' }}</small>
