@@ -425,7 +425,11 @@ $cursor-text-value: text !default;
       position: relative;
       cursor: $cursor-auto-value;
     }
-
+    .content-container {
+      max-width: 900px;
+      margin: 0 auto; /* Center the content */
+      padding: 0 15px; /* Optional padding for better readability */
+    }
   a:hover { cursor: $cursor-pointer-value; }
 
     // Grid Defaults to get images and embeds to work properly
