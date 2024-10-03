@@ -6,7 +6,7 @@ title: About
 I'm Nirav Sharma, third year MMathPhys student at University of Warwick. Member of maths society, physics society, BJJ club and boxing club in Warwick university. I have achieved a black belt in karate and the rank of sergeant in the army cadet force.
 
 ## Online Courses
-Listed below is a list of courses that I have completed with the certificates linked:
+Listed below is a list of courses that I have completed with the certificates linked:<br/>
 [AmplifyMe Finance Accelerator Simulation Experience](https://my.amplifyme.com/certificate/ffa379cd-394c-41ae-9d40-f043759b0e24)<br/>
 [JP Morgan Chase & Co. Quantitative Research Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._LNXRHZBwdjKXB28XM_1725976128078_completion_certificate.pdf)<br/>
 [JP Morgan Investment Banking Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/YD2kY95RQxQtXxFTS_JPMorgan%20Chase_LNXRHZBwdjKXB28XM_1725972367027_completion_certificate.pdf)<br/>
