@@ -50,8 +50,6 @@ noita:
     right:
       - name: About
         url: /about/
-      - name: Guide
-        url: /guide/
       - name: Blog
         url: /blog/
       - name: Articles
