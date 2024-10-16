@@ -1,7 +1,7 @@
 ---
 title: "Gappy makes finance a little easier"
 layout: arti
-date: 2024-09-28
+date: 2024-10-16
 description: "Giuseppe Paleologo recently released a draft version of his forthcoming book. It's good!"
 robots: none
 ---
