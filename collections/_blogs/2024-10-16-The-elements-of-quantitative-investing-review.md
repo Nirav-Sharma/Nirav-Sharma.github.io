@@ -1,6 +1,6 @@
 ---
 title: "Gardening is Quantessential "
-layout: arti
+layout: blog
 date: 2024-10-16
 description: "Why you need to get good at gardening to be in Quantitative Finance"
 robots: none
